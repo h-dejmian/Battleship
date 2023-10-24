@@ -18,7 +18,7 @@ If one of the players sunk all of the enemy ships, then the game is over and pro
 
 # Launch
 - clone repository
-- run Game file in your IDE
+- run Battleship file in your IDE
 
 # Requirements
 Java 17
