@@ -17,8 +17,7 @@ If we hit last part of some ship, then all segments will be marked with a crosse
 If one of the players sunk all of the enemy ships, then the game is over and program will display message with name of the winner and his score.
 
 # Launch
-- clone repository
 - run Battleship file in your IDE
 
 # Requirements
-Java 17
+- Java 17
